@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01" />
+        <option name="gradleJvm" value="18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01" />
+            <option value="$PROJECT_DIR$/src/T01/src" />
+            <option value="$PROJECT_DIR$/src/T01/src/exercise1" />
+            <option value="$PROJECT_DIR$/src/T01/src/exercise2" />
+            <option value="$PROJECT_DIR$/src/T01/src/exercise3" />
+            <option value="$PROJECT_DIR$/src/T01/src/exercise4" />
+            <option value="$PROJECT_DIR$/src/T01/src/exercise5" />
+            <option value="$PROJECT_DIR$/src/T01/src/exercise6" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
